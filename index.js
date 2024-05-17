@@ -8,4 +8,12 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     document.write("holaaaa");
     
+    document.write("holaaaa");
+    document.write("holaaaa");
+    document.write("holaaaa");
+    document.write("holaaaa");
+    document.write("holaaaa");
+    document.write("holaaaa");
+    document.write("holaaaa");
+    
 });
